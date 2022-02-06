@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+    align-self: center;
+}
+h1 {
+    text-align: center;
+}
+p { 
+    margin: 20px;
+}
+table {
+    border: 1px solid black;
+    border-radius: 20px;
+   
+}
+img {
+    width: 100px;
+   height: auto;
+}
+.changeStyle {
+    font-size: 60px;
+    font-weight: bolder;
+}
+.hideContent {
+visibility: hidden;
+}
+td {
+    border: 1px solid greenyellow;
+    
+}
+.addBorder {
+    border: 1px solid black;
+}
+tr {
+    border-collapse: collapse;
+    border-bottom: dotted 1px black;
+}
+a {
+    color: brown;
+}
